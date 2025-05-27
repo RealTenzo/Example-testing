@@ -1,2 +1,10 @@
 {
+  "TENZO-key5429697": {
+    "name": "test",
+    "sid": null,
+    "NeedSID": true,
+    "created": "2025-05-27T01:59:49.440Z",
+    "lastLogin": null,
+    "paused": false
+  }
 }
